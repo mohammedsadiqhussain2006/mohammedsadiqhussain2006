@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mohammedsadiq1739@gmail.com**
 
-- ⚡ Fun fact **a nerd**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
