@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadiq Hussain</h1>
 <h3 align="center">A nerd</h3>
 
-- 🌱 I’m currently learning **Fast api and ML**
+- 🌱 Interested in low level systems and machine learning
 
 - 📫 How to reach me **mohammedsadiq1739@gmail.com**
 
